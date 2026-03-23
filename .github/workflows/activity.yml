@@ -5,6 +5,10 @@ on:
     - cron: "*/30 * * * *"   # runs every 30 minutes
   workflow_dispatch:
 
+ 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with latest GitHub activity
@@ -16,7 +20,8 @@ jobs:
       - name: Update GitHub Activity in README
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           COMMIT_MSG: "chore: update activity feed"
           MAX_LINES: 5
