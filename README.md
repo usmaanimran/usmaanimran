@@ -1,146 +1,230 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=BB9AF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Usmaan+Imran;CS+Undergrad+at+IIT;AI+%26+ML+Enthusiast;Autonomous+Robotics+Engineer;Game+Developer+(UE5+%26+Unity)" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=USMAAN%20IMRAN&fontSize=60&color=0:0d0e1a,100:1a1b2e&stroke=BB9AF7&strokeWidth=2&fontColor=BB9AF7&fontAlignY=45&desc=CS%20Undergrad%20%7C%20AI%20%26%20ML%20%7C%20Autonomous%20Robotics%20%7C%20UE5&descAlignY=65&descSize=14&descColor=7AA2F7&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-IIT-1A1B27?style=for-the-badge&logo=academia&logoColor=BB9AF7" alt="IIT Student"/>
-  <img src="https://img.shields.io/badge/Member-IEEE-1A1B27?style=for-the-badge&logo=ieee&logoColor=7AA2F7" alt="IEEE Member"/>
-  <img src="https://img.shields.io/badge/Team-Zypher-1A1B27?style=for-the-badge&logo=codesandbox&logoColor=00FF99" alt="Team Zypher"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=15&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;Core+Member+%40+Team+Zypher+%7C+IEEE+Member;UE5+%7C+ML%2FAI+%7C+Autonomous+Drones+%7C+CTF)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![CS @ IIT](https://img.shields.io/badge/CS_@_IIT-0d0e1a?style=for-the-badge&logo=academia&logoColor=BB9AF7&labelColor=0d0e1a&color=BB9AF7)&nbsp;
+![IEEE Member](https://img.shields.io/badge/IEEE_Member-0d0e1a?style=for-the-badge&logo=ieee&logoColor=7AA2F7&labelColor=0d0e1a&color=7AA2F7)&nbsp;
+![Team Zypher](https://img.shields.io/badge/Team_Zypher-0d0e1a?style=for-the-badge&logo=codesandbox&logoColor=9ECE6A&labelColor=0d0e1a&color=9ECE6A)&nbsp;
+![Colombo, SL](https://img.shields.io/badge/Colombo,_SL_🇱🇰-0d0e1a?style=for-the-badge&logoColor=7DCFFF&labelColor=0d0e1a&color=7DCFFF)
+
+</div>
 
 <br>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=5000&color=7AA2F7&center=true&vCenter=true&width=800&lines=%22Bridging+the+gap+between+high-level+AI+and+low-level+robotics...%22" alt="Quote" />
-</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<p align="center">
-  <a href="https://linkedin.com/in/usmaan-imran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
-  <a href="mailto:usmaan.imran@example.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email"></a>
-  <a href="https://instagram.com/usmaan_imran" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=BB9AF7" alt="Instagram"></a>
-</p>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-### 👨‍💻 System.Bio
+## 〔  `// system.bio`  〕
 
 ```python
 class UsmaanImran:
     def __init__(self):
-        self.location = "Colombo, Sri Lanka"
-        self.education = "CS Undergraduate @ Informatics Institute of Technology (IIT)"
-        self.team = "Core Member @ Team Zypher"
-        
-    def get_focus_areas(self):
+        self.location   = "Colombo, Sri Lanka 🇱🇰"
+        self.education  = "CS Undergraduate @ Informatics Institute of Technology (IIT)"
+        self.team       = "Core Member @ Team Zypher"
+        self.mission    = "Bridging high-level AI ↔ low-level robotics"
+
+    def get_focus(self) -> dict:
         return {
-            "Machine_Learning": ["XGBoost", "Data Ethics", "Predictive Modeling"],
-            "Robotics": ["Autonomous Drones", "Battle-bots", "IEEE Robotics Society"],
-            "Game_Dev": ["Unreal Engine 5", "Psychological Horror", "World Optimization"],
-            "Creative": ["Video/Audio Post-Production", "Graphic Design"]
+            "ML_AI"    : ["XGBoost", "Data Ethics", "Predictive Modeling"],
+            "Robotics" : ["Autonomous Drones", "Battle-bots", "IEEE Robotics Society"],
+            "Game_Dev" : ["Unreal Engine 5", "Psychological Horror", "World Optimization"],
+            "Creative" : ["Video / Audio Post-Production", "Graphic Design"],
         }
-        
+
     def execute_mission(self):
         print("Building the next generation of autonomous systems.")
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+```
 
-<h3 align="center">🏆 Custom Trophy Case</h3>
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br>
 
-<table align="center" style="background-color: #1A1B27; border-radius: 10px;">
+## 〔  `// trophy.cache`  〕
+
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="20%">
-<h1 style="margin: 0;">🥇</h1>
-<b>Codemania V6.0</b>
+<td align="center" width="18%">
 
+🥇
+**Codemania V6.0**
 
-<sub>9th Place Overall
+`9th Place Overall`
+National Finals
 
-
-National Finals</sub>
 </td>
-<td align="center" width="20%">
-<h1 style="margin: 0;">🥈</h1>
-<b>IEEEXtreme 19.0</b>
+<td align="center" width="18%">
 
+🥈
+**IEEEXtreme 19.0**
 
-<sub>Ranked Top 30
+`Top 30 — Sri Lanka`
+24-hr Programming Marathon
 
-
-Sri Lanka</sub>
 </td>
-<td align="center" width="20%">
-<h1 style="margin: 0;">🥉</h1>
-<b>CyberQuest 2026</b>
+<td align="center" width="18%">
 
+🛡️
+**CyberQuest 2026**
 
-<sub>Ranked 26th
+`Rank 26th`
+CTF Challenge
 
-
-CTF Challenge</sub>
 </td>
-<td align="center" width="20%">
-<h1 style="margin: 0;">🚁</h1>
-<b>IESL RoboGames</b>
+<td align="center" width="18%">
 
+🚁
+**IESL RoboGames**
 
-<sub>University Finalist
+`University Finalist`
+Autonomous Drone
 
-
-Autonomous Drone</sub>
 </td>
-<td align="center" width="20%">
-<h1 style="margin: 0;">🛡️</h1>
-<b>VIta Alpha</b>
+<td align="center" width="18%">
 
+🎮
+**VIta Alpha**
 
-<sub>Lead Creator
+`Lead Creator`
+UE5 Survival Engine
 
-
-Survival Engine</sub>
 </td>
 </tr>
 </table>
 
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,java,cpp,html,css,js,tailwind,bootstrap,mysql,mongodb,git,github,vscode,unreal,linux,postman,figma,ps,pr,ae%26theme%3Ddark" />
-</p>
+## 〔  `// tech.arsenal`  〕
 
-<details>
-<summary align="center"><b>🟣 View Specialized Architecture (Click to Expand)</b></summary>
+<div align="center">
 
+#### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-0d0e1a?style=flat-square&logo=python&logoColor=BB9AF7)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-0d0e1a?style=flat-square&logo=xgboost&logoColor=F7768E)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0e1a?style=flat-square&logo=scikit-learn&logoColor=FF9E64)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-0d0e1a?style=flat-square&logo=pandas&logoColor=7AA2F7)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-0d0e1a?style=flat-square&logo=numpy&logoColor=7DCFFF)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0e1a?style=flat-square&logo=python&logoColor=9ECE6A)
 
-<ul>
-<li><b>Machine Learning & AI:</b> XGBoost, Scikit-Learn, Pandas, NumPy, Matplotlib, Data Imputation</li>
-<li><b>Game Development (UE5):</b> High-Fidelity World Building, Level Design, Performance Optimization</li>
-<li><b>Web Development:</b> Modern HTML5 & CSS3, Tailwind CSS, Responsive Frontend Architecture</li>
-<li><b>Robotics:</b> Arduino, Raspberry Pi, ROS (Basic), Autonomous Flight Logic</li>
-</ul>
-</details>
+#### 💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-0d0e1a?style=flat-square&logo=cplusplus&logoColor=7AA2F7)&nbsp;
+![Java](https://img.shields.io/badge/Java-0d0e1a?style=flat-square&logo=openjdk&logoColor=FF9E64)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0e1a?style=flat-square&logo=javascript&logoColor=E0AF68)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0d0e1a?style=flat-square&logo=html5&logoColor=F7768E)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0d0e1a?style=flat-square&logo=css3&logoColor=7DCFFF)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0e1a?style=flat-square&logo=tailwindcss&logoColor=7AA2F7)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0e1a?style=flat-square&logo=bootstrap&logoColor=BB9AF7)
 
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+#### 🚁 Robotics & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-0d0e1a?style=flat-square&logo=arduino&logoColor=9ECE6A)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d0e1a?style=flat-square&logo=raspberrypi&logoColor=F7768E)&nbsp;
+![ROS](https://img.shields.io/badge/ROS-0d0e1a?style=flat-square&logo=ros&logoColor=7DCFFF)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0d0e1a?style=flat-square&logo=linux&logoColor=E0AF68)
 
-<h3 align="center">📊 Data Telemetry</h3>
+#### 🎮 Game Development
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0d0e1a?style=flat-square&logo=unrealengine&logoColor=BB9AF7)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-0d0e1a?style=flat-square&logo=unity&logoColor=7AA2F7)
 
-<table align="center" style="border: none;">
+#### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-0d0e1a?style=flat-square&logo=mysql&logoColor=7AA2F7)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0e1a?style=flat-square&logo=mongodb&logoColor=9ECE6A)&nbsp;
+![Git](https://img.shields.io/badge/Git-0d0e1a?style=flat-square&logo=git&logoColor=F7768E)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0d0e1a?style=flat-square&logo=postman&logoColor=FF9E64)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-0d0e1a?style=flat-square&logo=visual-studio-code&logoColor=7AA2F7)
+
+#### 🎨 Creative Suite
+![Figma](https://img.shields.io/badge/Figma-0d0e1a?style=flat-square&logo=figma&logoColor=BB9AF7)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-0d0e1a?style=flat-square&logo=adobe-photoshop&logoColor=7AA2F7)&nbsp;
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0d0e1a?style=flat-square&logo=adobe-premiere-pro&logoColor=BB9AF7)&nbsp;
+![After Effects](https://img.shields.io/badge/After_Effects-0d0e1a?style=flat-square&logo=adobe-after-effects&logoColor=7DCFFF)
+
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br>
+
+## 〔  `// data.telemetry`  〕
+
+<div align="center">
+
+<table>
 <tr>
-<td align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dusmaanimran%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26ring_color%3DBB9AF7" alt="GitHub Stats" />
+<td>
+
+![Usmaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmaanimran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&icon_color=7AA2F7&title_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true)
+
 </td>
-<td align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dusmaanimran%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaanimran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=BB9AF7&text_color=C0CAF5)
+
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dusmaanimran%26theme%3Dtokyonight%26hide_border%3Dtrue%26fire%3DBB9AF7%26ring%3DBB9AF7" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usmaanimran&theme=tokyonight&hide_border=true&background=0d0e1a&fire=BB9AF7&ring=BB9AF7&currStreakLabel=7AA2F7&sideNums=C0CAF5&sideLabels=565F89&dates=565F89)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DBB9AF7%26height%3D120%26section%3Dfooter" width="100%"/>
-</p>
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br>
+
+## 〔  `// contribution.map`  〕
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=usmaanimran&bg_color=0d0e1a&color=BB9AF7&line=7AA2F7&point=9ECE6A&area_color=BB9AF7&area=true&hide_border=true&custom_title=Usmaan%27s%20Contribution%20Graph)
+
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br>
+
+## 〔  `// connect.init()`  〕
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0e1a?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1a1b2e)](https://linkedin.com/in/usmaan-imran)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d0e1a?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1a1b2e)](mailto:usmaan.imran@example.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0d0e1a?style=for-the-badge&logo=instagram&logoColor=BB9AF7&labelColor=1a1b2e)](https://instagram.com/usmaan_imran)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0e1a?style=for-the-badge&logo=github&logoColor=9ECE6A&labelColor=1a1b2e)](https://github.com/usmaanimran)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=usmaanimran&style=for-the-badge&color=BB9AF7&labelColor=0d0e1a&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0e1a,50:1a1b2e,100:BB9AF740&section=footer&fontColor=BB9AF7" width="100%"/>
+
+</div>
+
+<div align="center">
+  <sub>
+    <code>crafted by usmaan imran · colombo, sri lanka 🇱🇰</code>
+  </sub>
+</div>
