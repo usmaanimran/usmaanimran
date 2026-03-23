@@ -2,10 +2,12 @@ name: Update Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # runs every 30 minutes
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # Runs every 6 hours (highly reliable on GitHub's servers)
+  workflow_dispatch:        # Allows manual triggering
+  push:
+    branches:
+      - main                # Automatically runs if you manually push a change to the repo
 
- 
 permissions:
   contents: write
 
@@ -20,7 +22,6 @@ jobs:
       - name: Update GitHub Activity in README
         uses: jamesgeorge007/github-activity-readme@master
         env:
-           
           GITHUB_TOKEN: ${{ github.token }}
         with:
           COMMIT_MSG: "chore: update activity feed"
