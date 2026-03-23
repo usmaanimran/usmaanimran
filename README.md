@@ -203,13 +203,7 @@ class UsmaanImran {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 〔 `// auto.log` 〕
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:BB9AF740,50:1a1b2e,100:0d0e1a&amp;section=footer" width="100%"/>
+![SkillIssueClubPenguinGIF](https://github.com/user-attachments/assets/6c49ea6f-480e-4fae-835c-a24d4cc826af)
 
 <sub><code>crafted by usmaan imran · colombo, sri lanka 🇱🇰 · built different . 1 ɠ 1 </code></sub>
 
