@@ -51,7 +51,7 @@ class UsmaanImran:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=usmaanimran&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" width=100%>
 
 <br>
 
