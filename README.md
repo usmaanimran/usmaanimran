@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=USMAAN%20IMRAN&fontSize=65&color=0:0d0e1a,50:1a1b2e,100:BB9AF7&fontColor=BB9AF7&fontAlignY=40&desc=CS%20%40%20IIT%20%7C%20AI%20%26%20ML%20%7C%20Autonomous%20Robotics%20%7C%20UE5&descAlignY=60&descSize=14&descColor=7AA2F7&animation=fadeIn&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;text=USMAAN%20IMRAN&amp;fontSize=65&amp;color=0:0d0e1a,50:1a1b2e,100:BB9AF7&amp;fontColor=BB9AF7&amp;fontAlignY=40&amp;desc=CS%20%40%20IIT%20%7C%20AI%20%26%20ML%20%7C%20Autonomous%20Robotics%20%7C%20UE5&amp;descAlignY=60&amp;descSize=14&amp;descColor=7AA2F7&amp;animation=fadeIn&amp;section=header" width="100%"/>
 
 </div>
 
@@ -236,7 +236,7 @@ class UsmaanImran:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:BB9AF740,50:1a1b2e,100:0d0e1a&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:BB9AF740,50:1a1b2e,100:0d0e1a&amp;section=footer" width="100%"/>
 
 <sub><code>crafted by usmaan imran · colombo, sri lanka 🇱🇰 · built different</code></sub>
 
