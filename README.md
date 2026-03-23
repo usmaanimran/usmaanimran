@@ -1,11 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&text=USMAAN%20IMRAN&fontSize=70&fontColor=BB9AF7&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&fontAlignY=40&desc=AI%20|%20Robotics%20|%20Autonomous%20Systems&descAlignY=65&descColor=7AA2F7"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&text=USMAAN%20IMRAN&fontSize=70&fontColor=BB9AF7&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&fontAlignY=40&desc=AI%20|%20ML%20|%20Autonomous%20Systems&descAlignY=65&descColor=7AA2F7"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;Core+Member+%40+Team+Zypher+%7C+IEEE+Member;CS+Undergrad+%7C+CTF+%7C+UE5+%7C+Autonomous+Drones)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;Core+Member+%40+TeamZypher+%7C+IEEE+Member;CS+Undergrad+%7C+CTF+%7C+UE5+%7C+Autonomous+Navigation+"+Nobody+is+nobody+when+nobody+is+there")](https://git.io/typing-svg)
 
 </div>
 
@@ -28,16 +28,16 @@ class UsmaanImran {
     constructor() {
         this.location  = "Colombo, Sri Lanka 🇱🇰";
         this.education = "CS Undergrad @ Informatics Institute of Technology (IIT)";
-        this.team      = "Core Member @ Team Zypher";
+        this.team      = "Core Member @ TeamZypher";
         this.mission   = "Bridging high-level AI ↔ low-level robotics";
     }
 
     getTechFocus() {
         return {
             ml_ai:    ["XGBoost", "Data Ethics", "Predictive Modeling"],
-            robotics: ["Autonomous Drones", "Battle-bots", "IEEE Robotics"],
-            game_dev: ["Unreal Engine 5", "Psychological Horror", "World Optimization"],
-            creative: ["Video/Audio Post-Production", "Graphic Design"]
+            robotics: ["Autonomous Drones", "IEEE Robotics"],
+            game_dev: ["Unreal Engine 5", "Psychological Horror", "World Optimization", "Game design"],
+            creative: ["Video/Audio Post-Production", "Graphic Design", "Web dev/design"]
         };
     }
 
@@ -61,19 +61,19 @@ class UsmaanImran {
     <td align="center"><b>🥇 Codemania V6.0</b></td>
     <td align="center"><b>🥈 IEEEXtreme 19.0</b></td>
     <td align="center"><b>🛡️ CyberQuest 2026</b></td>
-    <td align="center"><b>🚁 IESL RoboGames</b></td>
-    <td align="center"><b>🎮 VIta Alpha</b></td>
+    <td align="center"><b>❎ ModelX</b></td>
+    <td align="center"><b>🆘 VIta Alpha</b></td>
   </tr>
   <tr>
-    <td align="center"><code>9th Place Overall</code><br>National Finals</td>
-    <td align="center"><code>Top 30 — SL</code><br>24-hr Marathon</td>
-    <td align="center"><code>Rank 26th</code><br>CTF Challenge</td>
-    <td align="center"><code>University Finalist</code><br>Autonomous Drone</td>
-    <td align="center"><code>Lead Creator</code><br>UE5 Survival Engine</td>
+    <td align="center"><code>9th Place Overall</code><br>National Finalist</td>
+    <td align="center"><code>Top 30 — SL</code><br>24-hr Hackerthon</td>
+    <td align="center"><code>Rank 26th</code><br>CTF</td>
+    <td align="center"><code>University Finalist</code><br>AI/ML</td>
+    <td align="center"><code>Lead Creator</code><br>Realtime Survival Engine</td>
   </tr>
 </table>
 
-</div>><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">〔 // tech.arsenal 〕<div align="center"><table><tr><td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><b>Python</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><b>C++</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><b>JavaScript</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><b>MySQL</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><b>GitHub</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><b>Docker</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/><b>TypeScript</b></td></tr><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><b>Arduino</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi"/><b>RPi</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><b>Linux</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine"/><b>UE5</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><b>Unity</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><b>Figma</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop"/><b>Photoshop</b></td></tr><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><b>MongoDB</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/><b>Tailwind</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><b>Bootstrap</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><b>Git</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/><b>VS Code</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><b>Postman</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects"/><b>Ae</b></td></tr></table></div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">〔 // data.telemetry 〕<div align="center"><a href="https://github.com/usmaanimran"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=usmaanimran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&icon_color=7AA2F7&title_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true"/></a><a href="https://github.com/usmaanimran"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaanimran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=BB9AF7&text_color=C0CAF5&langs_count=8"/></a></div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">## 〔 `// contribution.map` 〕
+</div>><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">〔 // tech.arsenal 〕<div align="center"><table><tr><td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><b>Python</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><b>C++</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><b>JavaScript</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/><b>MySQL</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><b>GitHub</b></td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><b>Docker</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><b>Arduino</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi"/><b>RPi</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><b>Linux</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine"/><b>UE5</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><b>Unity</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><b>Figma</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop"/><b>Photoshop</b></td></tr><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><b>MongoDB</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/><b>Tailwind</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><b>Git</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/><b>VS Code</b></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects"/><b>Ae</b></td></tr></table></div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">〔 // data.telemetry 〕<div align="center"><a href="https://github.com/usmaanimran"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=usmaanimran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&icon_color=7AA2F7&title_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true"/></a><a href="https://github.com/usmaanimran"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaanimran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=BB9AF7&text_color=C0CAF5&langs_count=8"/></a></div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">## 〔 `// contribution.map` 〕
 
 <div align="center">
 
