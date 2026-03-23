@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Usmaan+Imran;CS+Undergrad+%40+IIT;AI+%2F+ML+Researcher;Autonomous+Robotics+Engineer;Game+Developer+(Unreal+Engine)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Usmaan+Imran;CS+Undergrad+%40+IIT;AI+%2F+ML+Enthusiast;Autonomous+Robotics+Engineer;Game+Developer+(Unreal+Engine+/+Unity)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-IIT-blue?style=for-the-badge&logo=iit" alt="IIT Student"/>
   <img src="https://img.shields.io/badge/Member-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Member"/>
-  <img src="https://img.shields.io/badge/Team-Zypher-00FF99?style=for-the-badge" alt="Team Zypher"/>
+  <img src="https://img.shields.io/badge/Team-Zypher-00FF99?style=for-the-badge" alt="TeamZypher"/>
 </p>
 
 <p align="center">
