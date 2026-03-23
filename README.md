@@ -26,7 +26,23 @@
 
 ### 👨‍💻 System.Bio
 
-
+```python
+class UsmaanImran:
+    def __init__(self):
+        self.location = "Colombo, Sri Lanka"
+        self.education = "CS Undergraduate @ Informatics Institute of Technology (IIT)"
+        self.team = "Core Member @ Team Zypher"
+        
+    def get_focus_areas(self):
+        return {
+            "Machine_Learning": ["XGBoost", "Data Ethics", "Predictive Modeling"],
+            "Robotics": ["Autonomous Drones", "Battle-bots", "IEEE Robotics Society"],
+            "Game_Dev": ["Unreal Engine 5", "Psychological Horror", "World Optimization"],
+            "Creative": ["Video/Audio Post-Production", "Graphic Design"]
+        }
+        
+    def execute_mission(self):
+        print("Building the next generation of autonomous systems.")
 <img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h3 align="center">🏆 Custom Trophy Case</h3>
