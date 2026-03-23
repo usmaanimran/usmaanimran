@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;Core+Member+%40+TeamZypher+%7C+IEEE+Member;CS+Undergrad+%7C+CTF+%7C+UE5+%7C+Autonomous+Navigation;"+Nobody+is+nobody+when+nobody+is+there+")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;Core+Member+%40+TeamZypher+%7C+IEEE+Member;CS+Undergrad+%7C+CTF+%7C+UE5+%7C+Autonomous+Navigation;"+Nobody+is+nobody+when+nobody+is+there+!")](https://git.io/typing-svg)
 
 </div>
 
