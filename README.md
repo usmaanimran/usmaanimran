@@ -1,4 +1,4 @@
-I apologize for overstepping and changing your layout. Let's completely undo that and stick exactly to your original design.The reason your original code was showing broken images for the header, trophies, and top repos is because of GitHub's image cache (Camo). If those third-party Vercel widgets go down even for just a few minutes, GitHub caches the "broken" image and keeps showing it to you, even after the servers come back online.To fix this without changing your design, we just need to append a dummy variable like &v=1 to the end of those specific image URLs. This forces GitHub's cache to fetch a brand new, working version of the image.Here is your exact original code, with only the &v=1 cache-fix applied to those three links:Markdown<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=USMAAN%20IMRAN&fontSize=65&color=0:0d0e1a,50:1a1b2e,100:16213e&stroke=BB9AF7&strokeWidth=2&fontColor=BB9AF7&fontAlignY=45&desc=CS%20%40%20IIT%20%7C%20AI%20%26%20ML%20%7C%20Autonomous%20Robotics%20%7C%20UE5&descAlignY=65&descSize=14&descColor=7AA2F7&animation=fadeIn&v=1" width="100%"/>
 
