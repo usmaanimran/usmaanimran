@@ -66,7 +66,7 @@ class UsmaanImran {
   </tr>
   <tr>
     <td align="center"><code>9th Place Overall</code><br>National Finalist</td>
-    <td align="center"><code>Top 30 — SL</code><br>24-hr Hackerthon</td>
+    <td align="center"><code>Top 30 — SL</code><br>24-hr Hackathon</td>
     <td align="center"><code>Rank 26th</code><br>CTF</td>
     <td align="center"><code>University Finalist</code><br>AI/ML</td>
     <td align="center"><code>Lead Creator</code><br>Realtime Survival Engine</td>
