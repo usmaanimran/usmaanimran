@@ -193,6 +193,10 @@ class UsmaanImran {
 
 <div align="center">
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/usmaanimran/vita_lk/pull/1#issuecomment-4124668725) in [usmaanimran/vita_lk](https://github.com/usmaanimran/vita_lk)
+2. 🎉 Merged PR [#1](https://github.com/usmaanimran/vita_lk/pull/1) in [usmaanimran/vita_lk](https://github.com/usmaanimran/vita_lk)
+3. 💪 Opened PR [#1](https://github.com/usmaanimran/vita_lk/pull/1) in [usmaanimran/vita_lk](https://github.com/usmaanimran/vita_lk)
+<!--END_SECTION:activity-->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
