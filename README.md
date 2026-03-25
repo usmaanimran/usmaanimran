@@ -189,14 +189,22 @@ class UsmaanImran {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 〔 `// recent.activity` 〕
+## 〔 `// featured.repos` 〕
 
 <div align="center">
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/usmaanimran/vita_lk/pull/1#issuecomment-4124668725) in [usmaanimran/vita_lk](https://github.com/usmaanimran/vita_lk)
-2. 🎉 Merged PR [#1](https://github.com/usmaanimran/vita_lk/pull/1) in [usmaanimran/vita_lk](https://github.com/usmaanimran/vita_lk)
-3. 💪 Opened PR [#1](https://github.com/usmaanimran/vita_lk/pull/1) in [usmaanimran/vita_lk](https://github.com/usmaanimran/vita_lk)
-<!--END_SECTION:activity-->
+
+  <a href="https://github.com/usmaanimran/VIta_ALpha-">
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=usmaanimran&repo=VIta_ALpha-&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&title_color=BB9AF7&text_color=C0CAF5&icon_color=7AA2F7"/>
+  </a>
+  
+  <a href="https://github.com/usmaanimran/4COSC011C.2-Peace-Justice-">
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=usmaanimran&repo=4COSC011C.2-Peace-Justice-&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&title_color=BB9AF7&text_color=C0CAF5&icon_color=7AA2F7"/>
+  </a>
+
+  <a href="https://github.com/usmaanimran/ModelX_hackerthon_zypher">
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=usmaanimran&repo=ModelX_hackerthon_zypher&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&title_color=BB9AF7&text_color=C0CAF5&icon_color=7AA2F7"/>
+  </a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
