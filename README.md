@@ -64,7 +64,9 @@ class UsmaanImran {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">## 〔 `// trophy.cache` 〕
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">〔 <code>// trophy.cache</code> 〕</h2>
 
 <div align="center">
 
@@ -199,7 +201,8 @@ class UsmaanImran {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 〔 `// contribution.map` 〕
+<h2 align="center">〔 <code>// contribution.map</code> 〕</h2>
+
 
 <div align="center">
 
@@ -209,7 +212,8 @@ class UsmaanImran {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 〔 `// featured.repos` 〕
+
+<h2 align="center">〔 <code>// featured.repos</code> 〕</h2>
 
 <div align="center">
 
@@ -229,7 +233,7 @@ class UsmaanImran {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 〔 `// snake.exe` 〕
+<h2 align="center">〔 <code>// snake.exe</code> 〕</h2>
 
 <div align="center">
 
@@ -239,7 +243,7 @@ class UsmaanImran {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/usmaanimran/usmaanimran/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-</div>
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
