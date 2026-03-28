@@ -48,6 +48,22 @@ class UsmaanImran {
     }
 }
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 〔 `// dev.dua` 〕
+
+> [!IMPORTANT]
+> ### 🤲 The Developer's Dua 
+> "O Allah, I seek refuge in You from code that does not benefit, from a console that does not show **'Success'**, and from a heart that does not tremble at a **500 Internal Server Error**."
+> 
+> "Grant us the **Sabr**(Patience) to handle legacy codebases, and the **Hidayah**(Guidance) to find the missing semicolon. **And forgive us our technical debt, as we forgive those who pushed directly to Main.**"
+> 
+> "O Allah, keep our databases secure, our servers upright, and grant us **Barakah** in our compile times. May our PRs be merged and our sins be deleted."
+>
+> **Ameen.**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">## 〔 `// trophy.cache` 〕
 
 <div align="center">
@@ -166,14 +182,18 @@ class UsmaanImran {
 
 ## 〔 `// data.telemetry` 〕
 
-<div align="center">
-
-<a href="https://github.com/usmaanimran">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=usmaanimran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e1a&ring_color=BB9AF7&icon_color=7AA2F7&title_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/usmaanimran">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaanimran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=BB9AF7&text_color=C0CAF5&langs_count=8"/>
-</a>
+<p align="center">
+  <a href="https://github.com/usmaanimran">
+    <picture>
+      <img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=usmaanimran&hide_title=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="usmaanimran" />
+    </picture>
+  </a>
+  <a href="https://github.com/usmaanimran">
+    <picture>
+      <img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=usmaanimran&hide_title=false&layout=compact&theme=tokyonight&count_private=true" />
+    </picture>
+  </a>
+</p>
 
 </div>
 
