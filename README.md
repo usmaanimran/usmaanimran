@@ -1,19 +1,18 @@
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=300&text=USMAAN%20IMRAN&fontSize=70&fontColor=BB9AF7&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&fontAlignY=40&desc=AI%20|%20ML%20|%20Autonomous%20Systems&descAlignY=65&descColor=7AA2F7"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;Core+Member+%40+TeamZypher+%7C+IEEE+Member;CS+Undergrad+%7C+CTF+%7C+UE5+%7C+Autonomous+Navigation;"+Nobody+is+nobody+when+nobody+is+there+!")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Bridging+high-level+AI+%E2%86%94+low-level+robotics...;Building+the+next+generation+of+autonomous+systems.;IEEE+Member;CS+Undergrad+%7C+CTF+%7C+UE5+%7C+Autonomous+Navigation;"+Nobody+is+nobody+when+nobody+is+there+!")](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0e1a?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://linkedin.com/in/usmaan-imran)
-[![Email](https://img.shields.io/badge/Email-0d0e1a?style=for-the-badge&logo=gmail&logoColor=F7768E)](mailto:usmaan.imran@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0e1a?style=for-the-badge&logo=github&logoColor=9ECE6A)](https://github.com/usmaanimran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usmaan-imran)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmaan.imran@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmaanimran)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=usmaanimran&style=for-the-badge&color=BB9AF7&labelColor=0d0e1a&label=PROFILE+VIEWS)](https://github.com/usmaanimran)
 
