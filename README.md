@@ -28,7 +28,6 @@ class UsmaanImran {
     constructor() {
         this.location  = "Colombo, Sri Lanka 🇱🇰";
         this.education = "CS Undergrad @ Informatics Institute of Technology (IIT)";
-        this.team      = "Core Member @ TeamZypher";
         this.mission   = "Bridging high-level AI ↔ low-level robotics";
     }
 
